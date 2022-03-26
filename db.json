@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "titulo": "Televisão",
+      "categoria": "Eletronico",
+      "modelo": "TU8000",
+      "quantidade": "20",
+      "img": "https://www.ofertinha.com.br/wp-content/uploads/2020/10/xx-11.png"
+    }
+  ]
+}
